@@ -45,7 +45,7 @@ INSTALLED_APPS = [
     'allauth.account', 
     'allauth.socialaccount', 
 
-    # Local
+    # Local ;
     'accounts',
     'hospital_app',
     'widget_tweaks',
